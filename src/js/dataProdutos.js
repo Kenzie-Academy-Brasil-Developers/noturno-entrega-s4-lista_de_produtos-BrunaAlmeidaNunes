@@ -1,9 +1,10 @@
 const produtos = [
     {
-        nome: 'Banana',
+        nome: 'Bana',
         preco: 2,
         secao: 'Hortifruti',
         categoria: 'fruta',
+        lista: 'todos',
         img: "./src/img/banana.png"
     },
     {
@@ -11,6 +12,7 @@ const produtos = [
         preco: 2,
         secao: 'Hortifruti',
         categoria: 'fruta',
+        lista: 'todos',
         img: './src/img/morango.png'
     },
     {
@@ -18,13 +20,15 @@ const produtos = [
         preco: 2,
         secao: 'Hortifruti',
         categoria: 'fruta',
-        img: './src/img/maça.png'
+        lista: 'todos',
+        img: './src/img/maca.png'
     },
     {
         nome: 'Pão',
         preco: 4,
         secao: 'Panificadora',
         categoria: 'Pães',
+        lista: 'todos',
         img: './src/img/pao.png'
     },
     {
@@ -32,6 +36,7 @@ const produtos = [
         preco: 5,
         secao: 'Laticínio',
         categoria: 'Leite',
+        lista: 'todos',
         img: './src/img/leite.png'
     }
 ]
