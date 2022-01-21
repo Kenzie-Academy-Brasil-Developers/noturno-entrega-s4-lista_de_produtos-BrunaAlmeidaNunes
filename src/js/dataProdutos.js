@@ -1,6 +1,6 @@
 const produtos = [
     {
-        nome: 'Bana',
+        nome: 'Banana',
         preco: 2,
         secao: 'Hortifruti',
         categoria: 'fruta',
